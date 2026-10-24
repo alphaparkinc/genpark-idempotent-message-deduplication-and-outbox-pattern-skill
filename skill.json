@@ -1,0 +1,11 @@
+{
+  "name": "genpark-idempotent-message-deduplication-and-outbox-pattern-skill",
+  "version": "1.0.0",
+  "description": "Implements the transactional outbox pattern to guarantee exactly-once message dispatch and deduplication",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
